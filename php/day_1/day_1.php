@@ -1,6 +1,6 @@
 <?php
 
-$input = file_get_contents('test_part_2.txt');
+//$input = file_get_contents('test_part_2.txt');
 $input = file_get_contents('input_part_1.txt');
 
 $digits = range(1,9);
